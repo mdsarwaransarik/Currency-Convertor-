@@ -1,0 +1,75 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    margin-top: 40px;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.one{
+    margin-top: 160px;
+    border: 1px solid rgb(194, 194, 194);
+    border-radius: 14px;
+    padding: 30px;
+}
+
+
+.source{
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 30px;
+    background-color: rgb(255, 204, 204);
+    color: rgb(0, 0, 0);
+    width: 400px;
+    height: 60px;
+    font-size: 40px ;
+    font-weight: 600;
+}
+
+.target{
+    padding: 10px;
+    border: 1px solid rgb(120, 3, 255);
+    border-radius: 30px;
+    background-color: rgb(233, 176, 255);
+    color: black;
+    width: 400px;
+    height: 60px;
+    font-size: 40px ;
+    font-weight: 600;
+
+
+}
+
+.sourcesel{
+    
+    padding: 10px;
+    border: 1px solid rgb(255, 178, 178);
+    border-radius: 30px;
+    background-color: rgb(255, 0, 0);
+    color: black;
+    width: 130px;
+    height: 60px;
+    font-size: 40px ;
+    font-weight: 600;
+}
+
+.targetsel{
+    
+    padding: 10px;
+    border: 1px solid rgb(236, 27, 255);
+    border-radius: 30px;
+    background-color: rgb(155, 0, 216);
+    color: rgb(255, 255, 255);
+    width: 130px;
+    height: 60px;
+    font-size: 40px ;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
